@@ -24,6 +24,12 @@
 			<artifactId>phantomjsdriver</artifactId>
 			<version>1.1.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.esotericsoftware.kryo</groupId>
+			<artifactId>kryo</artifactId>
+			<version>2.10</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
